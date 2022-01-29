@@ -1,5 +1,7 @@
-def add(val_a: int, val_b: int) -> int:
-    return val_a+val_b
+def add(a: int, b: int) -> int:
+    """Addition Function
+    """
+    return a+b
 
 if __name__ == "__main__":
     first_value = input("Enter first value: ")
