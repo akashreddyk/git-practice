@@ -1,5 +1,5 @@
 def add(a: int, b: int) -> int:
-    """Addition Function
+    """Addition Fu
     """
     return a+b
 
