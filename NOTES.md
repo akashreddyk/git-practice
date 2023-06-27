@@ -3,8 +3,8 @@
 - [ ] Branches.
     - [ ] Types of Branches
     - [ ] Naming Conventions
-- [ ] Commits.
-    - [ ] Commit messages
+- [X] Commits.
+    - [X] Commit messages
 
 - [ ] Push.
 
