@@ -9,9 +9,9 @@
     - [X] feature/<user_story_number>_description
     - [X] bugfix/
     - [X] release/
-- [ ] Commits.
-    - [ ] Commit messages
-    - [ ] <type>_<Module_Name>: <Description>
+- [X] Commits.
+    - [X] Commit messages
+    - [X] <type>_<Module_Name>: <Description>
           feat: A new feature.
           fix: A bug fix
           docs: Documentation changes
