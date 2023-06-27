@@ -1,8 +1,8 @@
 # GitHub - Knowledge Sharing
 
-- [ X ] Branches.
-    - [ X ] Types of Branches
-    - [ X ] Naming Conventions
+- [X] Branches.
+    - [X] Types of Branches
+    - [X] Naming Conventions
 - [ ] Commits.
     - [ ] Commit messages
 
