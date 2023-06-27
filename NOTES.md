@@ -2,13 +2,13 @@
 
 - [X] Branches.
     - [X] Types of Branches
-    - [ ]  feature
-    - [ ]  bugfix
-    - [ ]  release
+    - [X]  feature
+    - [X]  bugfix
+    - [X]  release
     - [X] Naming Conventions
-    - [ ] feature/<user_story_number>_description
-    - [ ] bugfix/
-    - [ ] release/
+    - [X] feature/<user_story_number>_description
+    - [X] bugfix/
+    - [X] release/
 - [ ] Commits.
     - [ ] Commit messages
     - [ ] <type>_<Module_Name>: <Description>
